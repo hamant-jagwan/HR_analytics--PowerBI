@@ -17,28 +17,32 @@ The HR Analytics Dashboard is a powerful tool designed for HR professionals to a
 
 ## Dashboard Content :
 ### Key Performance Indicators (KPIs):
-        1. Employee Count: The total number of employees in the organization.
-        2. Attrition Count: The number of employees who have left the organization.
-        3. Attrition Rate: The percentage of employees who have left, indicating the attrition rate.
-        4. Active Employees: The count of currently employed staff members.
-        5. Average Age: The average age of employees in the organization.
+        1. Presence percentage  : the proportion of time an individual has been present relative to the total available working days.
+        
+        2. Work From Home percentage (WFH %) : the proportion of time spent working remotely in relation to the total days of physical presence.
+        
+        3. Sick Leave percentage(SL %) : the proportion of time taken as sick leave relative to the overall available working days
 
 ## Visualizations:
-Attrition by Gender (Lollipop Chart): A lollipop chart visually represents attrition rates based on gender. It provides a clear comparison between male and female employee turnover, aiding in gender-specific attrition analysis.
+        1. KPIs (Gauge Chart)        :  A gauge chart in Power BI visually represents a single value within a predefined range, 
+                                        providing a quick and intuitive way to assess performance or metrics against set targets
+                                        
+        2. Attendance record (Table) :  A table in Power BI is a data visualization that organizes and displays information in a tabular format, 
+                                        presenting data in rows and columns for easy analysis and exploration.
+                                        
+        3. Months & Date (Slicer)    :  A slicer in Power BI is a user interface element that enables interactive filtering and selection of data within a report, 
+                                        allowing users to dynamically control and customize the displayed information by choosing specific values or ranges
+                                        
+        4. Presence % , WFH % & SL % (Area Chart):      An area chart in Power BI is a data visualization that displays the magnitude of values over a continuous axis, 
+                                                        with the area between the line connecting data points and the axis filled, 
+                                                        providing a visual representation of cumulative or stacked values over time or categories
 
-Department-wise Attrition (Pie Chart): A pie chart illustrates attrition distribution across different departments. Each slice represents a department's proportion in the total attrition count, enabling HR managers to identify departments with higher turnover rates.
 
-Number of Employees by Age Group (Bar Graph): A bar graph categorizes employees into different age groups, offering insights into the age demographics of the workforce. This visualization helps in understanding the age diversity within the organization.
+## Dashboard
+![Screenshot 2024-01-03 104349](https://github.com/hamant-jagwan/HR_analytics--PowerBI/assets/117731315/477874dc-2778-4cbf-8bdd-0fba6c30f23a)
+### Dashboard Link
 
-Job Satisfaction Rating (Square Chart): A square chart displays job satisfaction ratings of employees. Each square represents an employee's satisfaction level, providing a visual overview of job satisfaction across the organization.
 
-Education Field-wise Attrition (Vertical Bar Graph): A vertical bar graph compares attrition rates across various education fields. This visualization helps in identifying patterns related to specific educational backgrounds, aiding in targeted retention strategies.
-
-Education Field-wise Attrition (Donut Plot): A donut plot offers an alternative representation of attrition rates based on education fields. It provides a more detailed view by displaying both the overall attrition rate and the individual contribution of each education field to the attrition count.
-
-## Overview:-
-Dashboard
-Untitled design (1)
 
 Dashboard Video
  Library._.Loom.-.2.October.2023.mp4 
