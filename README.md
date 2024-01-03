@@ -38,17 +38,15 @@ The HR Analytics Dashboard is a powerful tool designed for HR professionals to a
                                                         providing a visual representation of cumulative or stacked values over time or categories
 
 
-## Dashboard
+## Dashboard :
 ![Screenshot 2024-01-03 104349](https://github.com/hamant-jagwan/HR_analytics--PowerBI/assets/117731315/477874dc-2778-4cbf-8bdd-0fba6c30f23a)
-### Dashboard Link
+
+## Dashboard Link : 
+
+https://app.powerbi.com/view?r=eyJrIjoiMTU0MjIwOGUtYzhlNy00NmZjLTliMjMtOWRkYzY3ZjdiYzYzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 
 
-Dashboard Video
- Library._.Loom.-.2.October.2023.mp4 
-Contributing
-Contributions to enhance the dashboard or address specific HR analytics challenges are welcome! Please create issues or pull requests to collaborate on improving the dashboard's functionality and visualization.
+## Dashboard Video
 
-Links :-
-I've shared all the necessary files, datasets, workbooks, and icons above. Please feel free to utilize these resources for your upcoming projects. If you find value in this project and dashboard, consider giving it a star or simply let me know. Your feedback would be greatly appreciated!
 
