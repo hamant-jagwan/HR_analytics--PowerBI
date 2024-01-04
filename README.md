@@ -3,12 +3,23 @@
 <img src="https://github.com/hamant-jagwan/HR_analytics-PowerBI/assets/117731315/e78ab9c4-fc90-4a78-8693-b090ae6c2d5e)" width="600" height="250">
 </p>
 
-## Description :
-💼 The HR Data Analysis Dashboard using Power BI project is tailored for HR managers and business leaders to comprehensively analyze and oversee employee data. Its aim is to empower HR professionals to make informed decisions regarding employee retention, development, and recruitment strategies.
 
-📈 The project includes trendlines and target lines, enabling HR managers to effectively monitor the progress made in reducing attrition. It features detailed charts that illustrate employee distribution and attrition rates categorized by gender, age groups, job satisfaction levels, and educational backgrounds. These charts come equipped with legends and interactive filters, allowing HR managers to delve deeper into the data and gain comprehensive insights.
+## Description
+### Problem Statement:
+At AtliQ Hardware, effectively managing employee attendance, remote work arrangements, and sick leave is critical for both operational efficiency and employee well-being. However, the current system lacks a sophisticated analysis, leaving the organization without valuable insights needed for informed decision-making.
 
-The HR Analytics Dashboard is a powerful tool designed for HR professionals to analyze and understand employee attrition patterns within an organization. This comprehensive Power BI solution provides insights into attrition rates, active employee counts, and attrition trends based on gender and different age bands. By visualizing these key metrics, HR professionals can make data-driven decisions, optimize workforce management, and foster a diverse and inclusive workplace environment.
+### Challenges:
+**Attendance Insight Gaps:**
+The current system struggles to provide a complete picture of employee attendance. It lacks the ability to quantify how much time employees spend at the workplace compared to the total available working days, limiting the understanding of attendance patterns.
+
+**Remote Work Visibility Issues:**
+With the rise of remote work, understanding its impact on overall productivity is crucial. The organization faces challenges in evaluating remote work patterns and their relationship with in-office attendance, hindering the formulation of effective remote work policies.
+
+**Inadequate Sick Leave Management:**
+The existing tools for managing sick leave lack depth. There is a need for a more comprehensive analysis of sick leave trends and their correlation with overall attendance. Currently, there is no clear understanding of the percentage of time employees spend on sick leave relative to total available working days.
+
+### The Need for a Data-Driven Solution:
+To address these challenges, AtliQ Hardware aims to implement a data-driven solution using Power BI. This will enable the calculation and visualization of key metrics—Presence Percentage, Work From Home Percentage (WFH %), and Sick Leave Percentage (SL %)—providing actionable insights for better workforce management and a healthier work environment.
 
 ## Technologies Used : Power BI 📊
 <p align="center">
