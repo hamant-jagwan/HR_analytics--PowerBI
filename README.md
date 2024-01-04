@@ -5,7 +5,7 @@
 
 
 ## Description
-### Problem Statement:
+### Problem Statement:📉🤔
 At AtliQ Hardware, effectively managing employee attendance, remote work arrangements, and sick leave is critical for both operational efficiency and employee well-being. However, the current system lacks a sophisticated analysis, leaving the organization without valuable insights needed for informed decision-making.
 
 ### Challenges:
@@ -18,7 +18,7 @@ With the rise of remote work, understanding its impact on overall productivity i
 **Inadequate Sick Leave Management:**
 The existing tools for managing sick leave lack depth. There is a need for a more comprehensive analysis of sick leave trends and their correlation with overall attendance. Currently, there is no clear understanding of the percentage of time employees spend on sick leave relative to total available working days.
 
-### The Need for a Data-Driven Solution:
+### The Need for a Data-Driven Solution:📊💡
 To address these challenges, AtliQ Hardware aims to implement a data-driven solution using Power BI. This will enable the calculation and visualization of key metrics—Presence Percentage, Work From Home Percentage (WFH %), and Sick Leave Percentage (SL %)—providing actionable insights for better workforce management and a healthier work environment.
 
 ## Technologies Used : Power BI 📊
