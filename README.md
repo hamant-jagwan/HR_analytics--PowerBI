@@ -60,4 +60,5 @@ https://app.powerbi.com/view?r=eyJrIjoiMTU0MjIwOGUtYzhlNy00NmZjLTliMjMtOWRkYzY3Z
 
 ## Dashboard Video
 
+[![HR Analytics Dashboard Using Power BI](https://img.youtube.com/vi/cPfD14JZQiY/0.jpg)](https://www.youtube.com/watch?v=cPfD14JZQiY)
 
